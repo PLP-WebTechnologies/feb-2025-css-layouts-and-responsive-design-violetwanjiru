@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Responsive web design</title>
+    <!-- view port meta tag-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+    <h1>Responsive Web Design</h1>
+    <p> This is a simple example of a responsive web design using CSS</p>
+    <p>Resize the browser window to see the effect</p>
+    <img src="images/Perfect_home.jpg" alt="Dream home">
+    </div>
+    <div class = "flex-container">
+        <div class="item"> <p>The 5am club refers to a morning routine in which you dedicate the early hours of your day to personal development and life goals. The ‘club’ refers to a set of simple rules designed to guide your mornings, and it’s often shared as a hashtag across social platforms, connecting like-minded early risers. To be a member, you simply need to get out of bed at 5am and use your mornings to focus on exercise, self-reflection, and developing new skills. This can’t just be a one-off; equally important is the daily repetition.</p></div>
+        <div class="item"> <p>This new trend became popular in 2018 when the club’s ‘President’, Robin Sharma, released his book titled ‘The 5 am Club: Own Your Morning. Elevate Your Life‘. It’s since become an international bestseller and the concept has become a bit of an online sensation too.</p></div>
+        <div class="item"> <p>The 5am club has a few simple rules. Every member should wake at 5 o’clock each day and spend the first hour focusing on their personal development using a 20/20/20 model, such as:
+
+            20 minutes of exercise
+            20 minutes of self-reflection
+            20 minutes of progressing towards your goals
+            While the above is what Robin Sharma advocates for in his book, the rules aren’t strict. Members can change the duration, focus, and order of these tasks. As long as they relate to your personal development, you can call yourself a member.
+            
+            For example, you may start with a HIIT workout, followed by 20 minutes of journaling and then finish by learning a few new phrases in Spanish.</p></div>
+    </div class = "grid container">
+    <div>
+        <div class="item1">Header</div>
+        <div class="item2">Menu</div>
+        <div class="item3">Main</div>
+        <div class="item4">Right</div>
+        <div class="item5">Footer</div>
+        
+
+    </div>
+</body>
+</html>
